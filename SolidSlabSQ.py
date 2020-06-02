@@ -32,4 +32,4 @@ def SolidSlabSQ():
         rs.DeleteObjects([connect,connectOffset])
     return
 if __name__ == "__main__":
-    ExtrudeStraigt()
+    SolidSlabSQ()
