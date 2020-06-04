@@ -3,7 +3,7 @@
 
 "RhinoSketch" librray for simple quasi-solid and parametric objects.
 
-![picture](Images/Curve%20Ikon.png) /Command: Create solid along curve or polygon. <br>
+![picture](Images/Curve%20Ikon.png) /Command: Create solid along curve or polygon. <br><Coming..>
 ![picture](Images/Horiz%20Ikon.png) /Command: Create horizontal rectangular solid. <br>
 ![picture](Images/Polygon%20Ikon.png) /Command: Create horizonatal shape by polygon boundary. <br>
 ![picture](Images/Vertical%20Ikon.png) /Command: Create solid in a vertical position. <Coming..><br>
