@@ -1,5 +1,5 @@
 # <img src=“https://github.com/andrasaa/Vazlat3D/simples.png”> Solid Sketch for Rhino - simple solids 
-
+<img src=“https://github.com/andrasaa/Vazlat3D/simples.png”> 
 "RhinoSketch" librray for simple quasi-solid and parametric objects.
 
 What does quasi solid object mean? 
