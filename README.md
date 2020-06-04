@@ -8,6 +8,8 @@
 ![picture](Images/Polygon%20Ikon.png) /Command: Create horizonatal shape by polygon boundary. <br>
 ![picture](Images/Vertical%20Ikon.png) /Command: Create solid in a vertical position. <br>
 
+# FAQ
+
 What does quasi solid object mean? 
 The script generate planar surfaces that are grouped together. 
 
