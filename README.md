@@ -3,10 +3,10 @@
 
 "RhinoSketch" librray for simple quasi-solid and parametric objects.
 
-![picture](Images/Curve Ikon.png) /Command: Create solid along curve or polygon.
-![picture](Images/Horiz Ikon.png) /Command: Create horizontal rectangular solid. 
-![picture](Images/Polygon Ikon.png) /Command: Create horizonatal shape by polygon boundary.
-![picture](Images/Vertical Ikon.png) /Command: Create solid in a vertical position.
+![picture]("Images/Curve Ikon.png") /Command: Create solid along curve or polygon.
+![picture]("Images/Horiz Ikon.png") /Command: Create horizontal rectangular solid. 
+![picture]("Images/Polygon Ikon.png") /Command: Create horizonatal shape by polygon boundary.
+![picture]("Images/Vertical Ikon.png") /Command: Create solid in a vertical position.
 
 What does quasi solid object mean? 
 The script generate planar surfaces that are grouped together. 
