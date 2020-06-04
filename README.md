@@ -1,4 +1,4 @@
-Solid Sketch for Rhino - Simple solid objects. 
+#Solid Sketch for Rhino - Simple solid objects. 
 
 "RhinoSketch" librray for simple quasi-solid and parametric objects.
 
