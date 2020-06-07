@@ -1,7 +1,7 @@
 # Solid Sketch for Rhino - Simple solid geometry processing 
 ![picture](simples.png)
 
-"RhinoSketch" librray for simple quasi-solid and parametric objects.
+Open Source "RhinoSketch" librray for simple quasi-solid and parametric objects.
 
 ![picture](Images/Curve%20Ikon.png) /Command: Create solid along curve or polygon. <Coming..><br>
 ![picture](Images/Horiz%20Ikon.png) /Command: Create horizontal rectangular solid. <br>
