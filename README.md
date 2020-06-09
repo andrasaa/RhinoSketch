@@ -3,7 +3,7 @@
 
 Open Source "RhinoSketch" librray for simple quasi-solid and parametric objects.
 
-![picture](Images/Curve%20Ikon.png) /Command: Create solid along curve or polygon. <Coming..><br>
+![picture](Images/ikonok.jpg) /Command: Create solid along curve or polygon. <Coming..><br>
 
 
 # FAQ
