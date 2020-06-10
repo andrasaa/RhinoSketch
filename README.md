@@ -6,12 +6,14 @@ Open Source "RhinoSketch" librray for simple quasi-solid and parametric objects.
 Create geometry:
 
 ![picture](Images/ikonok.jpg) 
-/Command: Create solid along curve or polygon. <Coming..><br>
+Commands: 
+❄ Create solid along curve or polygon.
 
 Modify geometry:
 
 ![picture](Images/ikonokmodosit.jpg) 
-/Command: Create solid along curve or polygon. <Coming..><br>
+Commands: 
+❄ Create solid along curve or polygon.
 
 
 # FAQ
