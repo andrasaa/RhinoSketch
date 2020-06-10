@@ -7,15 +7,15 @@ Create geometry:
 
 ![picture](Images/ikonok.jpg) <br>
 Commands: <br>
-❄ Create rectangular vertical solid element.
-❄ Create rectangular horizontal solid element.
-❄ Create solid along curve or polygon.
+❄ Create rectangular vertical solid element.<br>
+❄ Create rectangular horizontal solid element.<br>
+❄ Create solid along curve or polygon.<br>
 
 Modify geometry:
 
 ![picture](Images/ikonokmodosit.jpg) <br>
 Commands: <br>
-❄ Create solid along curve or polygon.
+❄ Create solid along curve or polygon.<br>
 
 
 # FAQ
