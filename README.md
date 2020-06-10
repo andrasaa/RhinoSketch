@@ -7,6 +7,8 @@ Create geometry:
 
 ![picture](Images/ikonok.jpg) <br>
 Commands: <br>
+❄ Create rectangular vertical solid element.
+❄ Create rectangular horizontal solid element.
 ❄ Create solid along curve or polygon.
 
 Modify geometry:
