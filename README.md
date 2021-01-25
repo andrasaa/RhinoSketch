@@ -18,7 +18,7 @@ Modify geometry:
 ● Create solid along curve or polygon.<br>
 
 
-# FAQ
+# <span style="color: green"> FAQ </span>
 
 What does quasi solid object mean? 
 The script generate planar surfaces that are grouped together. 
