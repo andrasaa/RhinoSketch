@@ -1,5 +1,4 @@
 # Solid Sketch for Rhino - Simple solid geometry processing 
-![picture](simples.png) 
 
 "RhinoSketch" for parametric grouped surfaces.
 
