@@ -20,7 +20,7 @@ Modify geometry:
 
 # <span style="color: green"> FAQ </span>
 
-**bold** Why do not you go with real solid object? **bold** 
+** Why do not you go with real solid object? ** 
 The surface group gives the possibility to apply different materials on each side of the object that is not possible with solid objects.
 
 Technical:
