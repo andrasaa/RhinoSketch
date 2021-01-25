@@ -5,15 +5,11 @@
 
 Create geometry:
 
-![picture](Images/ikonok.jpg) <br>
-
 ● Create rectangular vertical solid element.<br>
 ● Create rectangular horizontal solid element.<br>
 ● Create solid along curve or polygon.<br>
 
 Modify geometry:
-
-![picture](Images/ikonokmodosit.jpg) <br>
 
 ● Create solid along curve or polygon.<br>
 
