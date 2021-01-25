@@ -16,7 +16,7 @@ Modify geometry:
 # <span style="color: green"> FAQ </span>
 
 **What is differnce between grouped surfaces and real solid object?** <br>
-The surface group gives the possibility to apply more materials on the sides of an object. It is not possible on a solid objects.
+The surface group gives the possibility to apply more materials on the sides of an object that is not possible on a solid objects.
 
 **Platform**<br>
 Scrips are developed in Rhinoceros 5.
