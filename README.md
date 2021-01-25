@@ -20,8 +20,8 @@ Modify geometry:
 
 # <span style="color: green"> FAQ </span>
 
-**Why do not you go with real solid object?** <br>
+**What is differnce between grouped surfaces and real solid object?** <br>
 The surface group gives the possibility to apply different materials on each side of the object that is not possible with solid objects.
 
-Technical:
+**Technical:**<br>
 Scrips are developed in Rhinoceros 5.
